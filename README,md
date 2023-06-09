@@ -1,0 +1,2 @@
+This is a simple react app that utilizes the use of FetchAPI to get data from a backend app. 
+It only displays the data that is gotten from the APi rather than using Hard-coded or Dummy data written in the code. The API makes use of JSON making it easy to work with.
